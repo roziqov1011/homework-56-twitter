@@ -1,0 +1,27 @@
+.post-list{
+    border-left: 1px solid #0022;
+    border-right: 1px solid #0022;
+    min-height: 100vh;
+    width: 100%;
+}
+.post-item{
+    border-bottom: 1px solid #0022;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.post-span{
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 50%;
+    background-color: crimson;
+    color: #fff;
+}
+.post-item div{
+    width: 90%;
+}

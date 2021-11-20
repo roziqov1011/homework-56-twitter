@@ -1,0 +1,63 @@
+.inner__container {
+    width: 850px;
+    min-height: 100vh;
+    border-left: 1px solid #0022;
+    border-right: 1px solid #0022;
+    margin: 15px;
+}
+
+.home-title {
+    border-bottom: 1px solid #0022;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-avatar {
+    border-bottom: 1px solid #0022;
+}
+
+.home-avatar div {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.home-avatar_item {
+    justify-content: space-between;
+}
+
+.home-avatar_button {
+    padding: 15px 30px 18px;
+    width: 108px;
+    height: 50px;
+    background: #1DA1F2;
+    opacity: 0.4;
+    border-radius: 120px;
+    color: #fff;
+    border: 2px solid #000;
+
+}
+
+.user {
+    border-bottom: 1px solid #0022;
+}
+
+.inner-user {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    color: black;
+}
+
+.user-avatar {
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 50%;
+    background-color: crimson;
+    color: #fff;
+}

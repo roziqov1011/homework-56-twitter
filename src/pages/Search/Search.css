@@ -1,0 +1,24 @@
+.trends {
+    padding: 25px;
+}
+
+.search-input {
+    border: none;
+    padding: 25px;
+    width: 373px;
+    height: 55px;
+    background: #EFF3F4;
+    border-radius: 31px;
+}
+
+.trends-list {
+    width: 373px;
+    height: 402px;
+    padding: 15px;
+    background: #F7F9F9;
+    border-radius: 10px;
+    margin-left: 0;
+}
+.trends-list li{
+    margin-top: 20px;
+}

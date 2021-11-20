@@ -1,0 +1,39 @@
+header{
+    width: 15%;
+}
+header h2{
+    margin-top: 50px;
+}
+
+.light{
+    background-color: #fff;
+    align-items: center;
+    padding: 25px;
+}
+.dark{
+    align-items: center;
+    background-color: rgb(196, 96, 243);
+    color: #fff;
+    padding: 25px;
+}
+ul{
+    list-style-type: none;
+}
+.header-list li{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    /* color: black; */
+}
+
+.header-select{
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: 2px solid #1D9BF0;
+    border-radius: 50px;
+    background-color: #fff;
+    color: #1D9BF0;
+    outline: none;
+}
+
